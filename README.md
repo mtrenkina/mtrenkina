@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
 </div>
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Margarita</a> </h1>
+<h1 align="center">:wave: Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Margarita</a> </h1>
 
 ### :woman_technologist: About Me :
 
