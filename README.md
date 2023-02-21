@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Margarita</a> </h1>
 
 ### :woman_technologist: About Me :
 
-🌱 I’m currently learning **React + typescript** and testing with **jest**
+- I’m currently learning **React + typescript** and testing with **jest**
 
 <!-- - 📫 How to reach me **maragritatrenkina@gmail.com** -->
 
