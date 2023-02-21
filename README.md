@@ -17,15 +17,17 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/wa1pper" target="blank"><img align="center" src=https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
+<a href="https://t.me/rita_chuuu" target="blank"><img align="center" src=https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
 </p>
 
 ### Languages:
 <p align="left"> 
+<a href="https://1c.ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/1C.png" alt="1C" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/typescript.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/typescript.webp" alt="typescript" width="40" height="40"/> </a>
+
 </p>
 
 ### Tools:
@@ -33,5 +35,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/react.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/React.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/redux.png" alt="react" width="40" height="40"/> </a> 
 </p>
