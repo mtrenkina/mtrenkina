@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **maragritatrenkina@gmail.com**
 
-- 📄 Know about my experiences [**Habr Career (Ru) тут доделать ссылку**]()
+<!-- - 📄 Know about my experiences [**Habr Career (Ru)**](тут доделать ссылку) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtrenkina&theme=gruvbox)
 
@@ -24,7 +24,8 @@
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/typescript.png" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 ### Tools:
@@ -32,4 +33,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/react.png" alt="react" width="40" height="40"/> </a> 
 </p>
