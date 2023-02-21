@@ -16,8 +16,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/rita_chuuu" target="blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
-<a href="maragritatrenkina@gmail.com" target="blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/gmail.png" alt="gmail" height="40" width="40" /></a>
+<a href="https://t.me/rita_chuuu" target="_blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
+<a href="mailto:maragritatrenkina@gmail.com" target="_blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/gmail.png" alt="gmail" height="40" width="40" /></a>
 </p>
 
 ### Languages:
