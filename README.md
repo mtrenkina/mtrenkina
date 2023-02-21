@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Margarita</a> </h1>
-<h3 align="center">Programmer</h3>
 
 - 🌱 I’m currently learning **typescript, React, jest**
 
-- 📫 How to reach me **maragritatrenkina@gmail.com**
+<!-- - 📫 How to reach me **maragritatrenkina@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [**Habr Career (Ru)**](тут доделать ссылку) -->
 
@@ -17,7 +16,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/rita_chuuu" target="blank"><img align="center" src=https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
+<a href="https://t.me/rita_chuuu" target="blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
+<a href="maragritatrenkina@gmail.com" target="blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/gmail.png" alt="gmail" height="40" width="40" /></a>
 </p>
 
 ### Languages:
