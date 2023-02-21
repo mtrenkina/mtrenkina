@@ -44,12 +44,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="30" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/> 
 </p>
