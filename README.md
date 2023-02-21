@@ -5,7 +5,8 @@
 
 ### :woman_technologist: About Me :
 
-- I’m currently learning **React + typescript** and testing with **jest**
+- I'm a programmer with 3 years of experience
+- Currently learning **React + typescript** and testing with **jest**
 
 <!-- - 📫 How to reach me **maragritatrenkina@gmail.com** -->
 
