@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Margarita</a> </h1>
+<h3 align="center">Programmer</h3>
 
-<!--
-**mtrenkina/mtrenkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **typescript, React, jest**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **maragritatrenkina@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [**Habr Career (Ru) тут доделать ссылку**]()
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtrenkina&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/rita_chuuu/badges/large)](https://www.codewars.com/users/rita_chuuu)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/wa1pper" target="blank"><img align="center" src=https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
+</p>
+
+### Languages:
+<p align="left"> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+### Tools:
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
+</p>
