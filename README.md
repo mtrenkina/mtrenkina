@@ -1,6 +1,11 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="300" />
+</div>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Margarita</a> </h1>
 
-- 🌱 I’m currently learning **typescript, React, jest**
+### :woman_technologist: About Me :
+
+🌱 I’m currently learning **React + typescript** and testing with **jest**
 
 <!-- - 📫 How to reach me **maragritatrenkina@gmail.com** -->
 
@@ -14,27 +19,37 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-### Connect with me:
+---
+
+### :e-mail: Connect with me:
 <p align="left">
 <a href="https://t.me/rita_chuuu" target="_blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="rita_chuuu" height="40" width="40" /></a>
 <a href="mailto:maragritatrenkina@gmail.com" target="_blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/gmail.png" alt="gmail" height="40" width="40" /></a>
 </p>
 
-### Languages:
+### :brain: Languages:
 <p align="left"> 
-<a href="https://1c.ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/1C.png" alt="1C" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/typescript.webp" alt="typescript" width="40" height="40"/> </a>
+<img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/1C.png" alt="1C" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
 </p>
 
-### Tools:
+### :hammer_and_wrench: Tools I've worked with:
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/React.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/redux.png" alt="react" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="30" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/> 
 </p>
