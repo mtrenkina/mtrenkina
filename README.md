@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">:wave: Hi there, I'm Margarita</h1>
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
 - I'm a programmer with 3 years of experience
 
@@ -21,13 +21,13 @@
 
 ---
 
-### :e-mail: Connect with me:
+### 📧 Connect with me:
 <p align="left">
 <a href="https://t.me/mtrenkina" target="_blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/Telegram.svg" alt="mtrenkina" height="40" width="40" /></a>
 <a href="mailto:maragritatrenkina@gmail.com" target="_blank"><img align="center" src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/gmail.png" alt="gmail" height="40" width="40" /></a>
 </p>
 
-### :brain: Languages:
+### 🧠 Languages:
 <p align="left"> 
 <img src="https://github.com/mtrenkina/mtrenkina/blob/main/icons/1C.png" alt="1C" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
@@ -37,7 +37,7 @@
 
 </p>
 
-### :hammer_and_wrench: Tools I've worked with:
+### 🛠 Tools I've worked with:
 <p align="left"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
