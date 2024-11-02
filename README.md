@@ -5,8 +5,6 @@
 
 ### 👩‍💻 About Me :
 
-- I'm a programmer with 3 years of experience
-
 <!-- - 📫 How to reach me **maragritatrenkina@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [**Habr Career (Ru)**](тут доделать ссылку) -->
@@ -14,8 +12,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtrenkina&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtrenkina&layout=compact)](https://github.com/mtrenkina/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/rita_chuuu/badges/large)](https://www.codewars.com/users/rita_chuuu)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtrenkina)](https://git.io/streak-stats)
 
